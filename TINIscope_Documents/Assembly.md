@@ -9,14 +9,16 @@ Please keep all the optical parts clean.
 
 ## Assembly steps 
 ### Step 1
-Insert the dichroic mirror to the housing
+Insert the dichroic mirror to the body.
 
 <img src="../assets/assembly picture/step 1.png" alt="step1" height="150"/>
 
 ### Step 2
+Insert the excitation to the body.
 <img src="../assets/assembly picture/step 2.png" alt="step2" height="150"/>
 
 ### Step 3
+Place the half ball lens on the upside of the body.
 <img src="../assets/assembly picture/step 3.png" alt="step3" height="150"/>
 
 ### Step 4
