@@ -36,13 +36,14 @@ As standalone equipment, TINIscope reaches a new level of miniaturization in hea
 
 In this repository, our goal is to present our work in the development of optics, electronics, and mechanics pertaining to various aspects of TINIscope. We cover topics such as the lightpath, housing, baseplate, commutator system, and provide useful guidelines for conducting experiments. To access detailed information regarding each topic, please click on the provided links below.
  
-### Part list
-* [part list of TINIscope](./TINIscope_Documents/PartList_tiniscope.md)
-* [part list of commutator system](./TINIscope_Documents/PartList_commutator.md)
+### TINIscope
+* [part list](./TINIscope_Documents/PartList_tiniscope.md)
+* [step-by-step assembly](./TINIscope_Documents/Assembly.md)
 
-### Assembly 
-* [step-by-step guide](./TINIscope_Documents/Assembly.md)
+### Commutator system 
+* [part list](./TINIscope_Documents/PartList_commutator.md)
 
+* [put them totether](./TINIscope_Documents/Commutator.md)
 ### GUI and drivers 
 * [Installation](./TINIscope_Documents/InstallGUI_driver.md)
 ### Experiment
