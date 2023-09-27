@@ -63,22 +63,22 @@ This FPC is for a easier solder of LED twisted pair. The twisted pair should be 
 
 ## Optical parts
 ### Half ball lens
-<img src="../assets/hall ball lens.png" alt="hall ball lens" height="100" align="right"/>
+<img src="../assets/parts of head scope/hall ball lens.png" alt="half ball lens" height="100" align="right"/>
 The diamiter of half ball lens is 2 mm. This part can be purchased from:
 
 * Edmund optics
 * #45-933
 
 ### Excitation filter
-<img src="../assets/excitation filter.png" alt="excitation filter" height="100" align="right"/>
+<img src="../assets/parts of head scope/excitation filter.png" alt="excitation filter" height="100" align="right"/>
 The size of excitation filter is diced to 2.8 * 1.8 mm. This part can be purchased from:
 
-* Edmund optics
+* Chroma
 * ET470/40x
 
 The size of it can be customized at Chroma, or be diced off at Sunlight-tech from a complete filter.
 ### Dichroic mirror
-<img src="../assets/dichroic mirror.png" alt="dichroic mirror" height="100" align="right"/>
+<img src="../assets/parts of head scope/dichroic mirror.png" alt="dichroic mirror" height="100" align="right"/>
 The size of dichroic mirror is diced to 2.8 * 4 mm. This part can be purchased from:
 
 * Chorma
@@ -86,9 +86,19 @@ The size of dichroic mirror is diced to 2.8 * 4 mm. This part can be purchased f
 
 The size of it can be customized at Chroma, or be diced off at Sunlight-tech from a complete filter.
 ### GRIN objective lens
+<img src="../assets/parts of head scope/grin objective lens.png" alt="GRIN objective lensr" height="100" align="right"/>
+The VIS coating of this lens can help to deal with the stray light. This part can be purchased from:
+
+* Edmund optics
+* 64#537
 ### Plano-convex lens
+<img src="../assets/parts of head scope/dichroic mirror.png" alt="dichroic mirror" height="100" align="right"/>
+This part can be purchased from:
+
+* Edmund optics
+* #88-775
 ### Emission filter
-<img src="../assets/emision filter.png" alt="emission filter" height="100" align="right"/>
+<img src="../assets/parts of head scope/emision filter.png" alt="emission filter" height="100" align="right"/>
 The size of emission filter is diced to 2.8 * 3 mm. This part can be purchased from:
 
 * Chorma
