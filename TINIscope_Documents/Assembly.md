@@ -5,7 +5,9 @@ This is the brief instruction of how to assemble the head mounted microscope of 
 
 Before started you should prepare for all the parts necessary to assemble it, please refer to the [Part list](.PartList_tiniscope.md).
 
-Please keep all the optical parts clean. After the assembly of microscope, black adhesive can be glued where optical parts are exposed and did not influence the optical pathway in order to shiled the light of environment when necessary.
+Please keep all the optical parts clean. 
+
+
 
 ## Assembly steps 
 
