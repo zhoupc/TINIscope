@@ -61,4 +61,37 @@ This FPC is for a easier solder of LED twisted pair. The twisted pair should be 
 
 <img src="../assets/LED fpc.jpg" alt="LED fpc" width="200"/> <img src="../assets/twisted pair.jpg" alt="twisted pair" width="200"/>
 
-## Optical filters 
+## Optical parts
+### Half ball lens
+<img src="../assets/hall ball lens.png" alt="hall ball lens" height="100" align="right"/>
+The diamiter of half ball lens is 2 mm. This part can be purchased from:
+
+* Edmund optics
+* #45-933
+
+### Excitation filter
+<img src="../assets/excitation filter.png" alt="excitation filter" height="100" align="right"/>
+The size of excitation filter is diced to 2.8 * 1.8 mm. This part can be purchased from:
+
+* Edmund optics
+* ET470/40x
+
+The size of it can be customized at Chroma, or be diced off at Sunlight-tech from a complete filter.
+### Dichroic mirror
+<img src="../assets/dichroic mirror.png" alt="dichroic mirror" height="100" align="right"/>
+The size of dichroic mirror is diced to 2.8 * 4 mm. This part can be purchased from:
+
+* Chorma
+* 59002bs
+
+The size of it can be customized at Chroma, or be diced off at Sunlight-tech from a complete filter.
+### GRIN objective lens
+### Plano-convex lens
+### Emission filter
+<img src="../assets/emision filter.png" alt="emission filter" height="100" align="right"/>
+The size of emission filter is diced to 2.8 * 3 mm. This part can be purchased from:
+
+* Chorma
+* ET525/50m
+
+The size of it can be customized at Chroma, or be diced off at Sunlight-tech from a complete filter.
