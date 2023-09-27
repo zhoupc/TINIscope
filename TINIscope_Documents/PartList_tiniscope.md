@@ -57,11 +57,8 @@ The BOM is provided for the necessary components needed to be soldered on this P
 <img src="../assets/pcb to daq.jpg" alt="pcb to daq" width="300"/>
 
 ### FPC for LED
-The FPC for LED is a easier solder of LED twisted pair. The twisted pair should be as thinner as possible to keep the agility of animal.
+This FPC is for a easier solder of LED twisted pair. The twisted pair should be as thinner as possible to keep the agility of animal.
 
-<img src="../assets/LED fpc.jpg" alt="LED fpc" width="400"/> <img src="../assets/twisted pair.jpg" alt="twisted pair" width="400"/>
-
-
-
+<img src="../assets/LED fpc.jpg" alt="LED fpc" width="200"/> <img src="../assets/twisted pair.jpg" alt="twisted pair" width="200"/>
 
 ## Optical filters 
