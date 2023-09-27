@@ -8,12 +8,6 @@ The commutator employs a stepper motor to rotate an electrical slip ring and unr
 <!-- Commutator design. The commutator was composed of a 3D-printed nylon U-shaped bracket, an electric slip ring (B1286-08S-4U-62641, Senring), a stepper motor (42B60, Taobao) with a driver (DM320, Taobao), and a controller (Arduino Nano, Supplementary. Two MIPI DAQ boards were mounted on the arms of the bracket, which was fixed to the rotor of the electric slip ring. The stepper motor was coupled to this rotor via a 1:2 gear set, providing the power to rotate the DAQ boards. During experiments, the experimenters determine the rotation direction by monitoring the shapes of flexible PCBs through a camera (Supplementary Figure 4A-C) and then press the controller to rotate the stepper motor clockwise or counterclockwise through the Arduino Nano, avoiding any movement-related wire entanglements. -->
 
 ## Part list 
-### DAQ 
-
-### control board 
-
-## MCU 
-
 ### Motor driver 
 <img src="./assets/../../assets/microstep_driver.jpg" alt="motor driver" width="150" align="right" />
 
@@ -63,8 +57,6 @@ The classic Arduino Nano is the smallest board to build your projects with.
 Each of the 14 digital pins on the Nano can be used as an input or output, using pinMode(), digitalWrite(), and digitalRead() functions. They operate at 5 volts. Each pin can provide or receive a maximum of 40 mA and has an internal pull-up resistor (disconnected by default) of 20-50 kOhms. 
 
 
-
-
 ### control board 
 
 <img src="../assets/switch_button.png" alt="arduno nao" width="150" align="right" />
@@ -77,6 +69,6 @@ The control board is composed of two switch button connecting to the MCU.
 
 Once you have acquired all the necessary components, assembling them is as straightforward as connecting them according to the diagram provided above. To give you a better idea of the final product, we have included a video demonstration below:
 
-<!-- <img src="../assets/commutator.gif" alt="our commutator system" width="300" align="right" /> -->
+<img src="../assets/commutator.gif" alt="our commutator system" width="300" align="right" />
 
-<video src="../assets/virtual_simulation.mp4" controls title="commutator"></video>
+<!-- <video src="../assets/virtual_simulation.mp4" controls title="commutator"></video> -->
