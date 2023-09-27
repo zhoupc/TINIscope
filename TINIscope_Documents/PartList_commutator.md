@@ -1,0 +1,6 @@
+# Part list of commutator system 
+DAQ boards were connected to a computer through a slip ring driven by a stepper motor, and the motor was manually controlled by the experimenter outside of the experimental room through the control board
+<img src="../assets/commutator_system.jpg" alt="Diagram of the commutator system" width="400"/>
+![Alt text](image-2.png)
+
+<!-- Commutator design. The commutator was composed of a 3D-printed nylon U-shaped bracket, an electric slip ring (B1286-08S-4U-62641, Senring), a stepper motor (42B60, Taobao) with a driver (DM320, Taobao), and a controller (Arduino Nano, Supplementary. Two MIPI DAQ boards were mounted on the arms of the bracket, which was fixed to the rotor of the electric slip ring. The stepper motor was coupled to this rotor via a 1:2 gear set, providing the power to rotate the DAQ boards. During experiments, the experimenters determine the rotation direction by monitoring the shapes of flexible PCBs through a camera (Supplementary Figure 4A-C) and then press the controller to rotate the stepper motor clockwise or counterclockwise through the Arduino Nano, avoiding any movement-related wire entanglements. -->
