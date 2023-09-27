@@ -48,12 +48,20 @@ The baseplate is CNC machined mainly due to consideration of keep durability of 
 The fabrication files for the TINIscope PCB can be found in the "TINIscope_PCB" folder of this repository. 
 
 ### Rigid-flex PCB 
-<img src="../assets/50cm cable.jpg" alt="50cm cable" width="1000" />
-<img src="../assets/pcb to daq.jpg" alt="pcb to daq" width="150" align="right" />
+<img src="../assets/50cm cable2.jpg" alt="50cm cable" width="150" align="right"/>
+
 A rigid-flex PCB is fabricated to connect the CMOS image sensor and DAQ board. The flex cable part is 50/70 cm to keep flexibility when the animal moves freely. The layer stack excel file should be strictly followed to simultaneously keep the stability of data transmission and the agility of animal.
 
 The BOM is provided for the necessary components needed to be soldered on this PCB. After soldering them on PCB, 4 PCBs will be connected to 2 DAQ boards. These 2 DAQ boards will be then fixed on the 3D printed U-shape Bracekt.
 
+<img src="../assets/pcb to daq.jpg" alt="pcb to daq" width="300"/>
+
 ### FPC for LED
+The FPC for LED is a easier solder of LED twisted pair. The twisted pair should be as thinner as possible to keep the agility of animal.
+
+<img src="../assets/LED fpc.jpg" alt="LED fpc" width="400"/> <img src="../assets/twisted pair.jpg" alt="twisted pair" width="400"/>
+
+
+
 
 ## Optical filters 
