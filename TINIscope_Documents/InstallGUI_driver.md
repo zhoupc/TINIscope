@@ -14,7 +14,7 @@ In this section, we will provide a detailed description of how to configure the 
   * Our testing has been conducted on the Windows operating system exclusively. 
 * Driver for TINIscope 
   * Download the [zip file](../TINIscope_Softwares/driver.zip)
-  * unzip driver.zip.
+  * uncompress driver.zip.
 * GUI software 
   * Download the [zip file](../TINIscope_Softwares/GUI.zip)
   * uncompress GUI.zip.
@@ -45,7 +45,7 @@ Here are steps for installing the driver:
 * step 0: open Device Manager in Windows and find the 4 unrecognized TINIscope devices, labelled as MU950. 
 * step 1: right click one of them and choose **update driver**. 
 * step 2: in the pop up window, choose **browse my computer for drivers**. 
-* step 3: select either `x64` or `x86` folder in your uncompressed driver folder. 
+* step 3: select either `x64` or `x86` folder according to your operating system in the uncompressed `USB3.0_Kit_driver` folder. 
 * step 4: repeat the same operation for the other 3 decices. 
 
 Congratulations to you if see the following:
@@ -76,7 +76,7 @@ Among these files, we mainly use 3 of them:
 
 Essentially, the process involves two primary steps, which are outlined in the following sections.
 
-### configuring TINIscopes with DTDualMipiOnlyDemo-1.1.4.exe 
+### Configuring TINIscopes with DTDualMipiOnlyDemo-1.1.4.exe 
 
 1. By double-clicking on `DTDualMipiOnlyDemo-1.1.4.exe` twice, two separate windows for TINIscope configuration will open simultaneously, as depicted below:
    
@@ -103,8 +103,8 @@ Essentially, the process involves two primary steps, which are outlined in the f
 
 4. Verify the status of TINIscope configuration by clicking the button `Open` on the top panel. 
 ![Alt text](../assets/DTDual_success.png)
-Congratulations to you if you see `succeed`
+Congratulations to you if you see two `succeed` in one window.
 
-### step 2: synchroning calcium imaging and behavior recording with controller/DTDualMipi-Qt-1.0.4-rc1.exe
+### Synchroning calcium imaging and behavior recording with controller/DTDualMipi-Qt-1.0.4-rc1.exe
 
 ![screenshot of calcium imaging and behavior recording](../assets/recording.png)

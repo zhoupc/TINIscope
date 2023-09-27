@@ -6,12 +6,8 @@
 <img src="./assets/tiniscope-4region-recording.gif" alt="simultaneous calcium imaging in 4 hippocampal regions of a mouse" width="300" align="right" />
 
 In this project repository, we introduce TINIscope, a **Tightly Integrated Neuronal Imaging microscope** optimized for electronic and opto-mechanical design. With its compact and lightweight design of 0.43 g, TINIscope enables unprecedented simultaneous imaging of behavior-relevant activity in up to four brain regions in mice. Moreover, TINIscope can be combined with additional modules to facilitate optogenetics, electrical stimulation, or local field potential recordings, allowing for multi-modal experimental design. Overall, TINIscope represents a timely and indispensable tool for studying the brain-wide interregional coordination that underlies unrestrained behaviors.
+
 ![Alt text](assets/tiniscope_ruler.png)
-<!-- ![Alt text](assets/tinsicope_miniscope.png) -->
-<!-- <img src="./assets/tiniscope_ruler.png" height="150" align='right'> 
-<!-- [!./assets/tiniscope_ruler.png](af) -->
-<!-- <img src="./assets/TINIscope.png" height="150" aligh='right' >  -->
-<!-- <img src="./assets/tiniscope_ruler.png" height="150" align='right'> --> 
 
 ## Features
 
@@ -52,12 +48,14 @@ In this repository, our goal is to present our work in the development of optics
 ### Experiment
 * [Virtual simulation](./TINIscope_Documents/VirtualSimulation.md)
 
-## Main contributors
+## Main contributors and institutations
 * Feng Xue
-* Fei Li，fei.li1@siat.ac.cn
+* Fei Li, fei.li1@siat.ac.cn
 * Ke-Ming Zhang 
 * Pengcheng Zhou, zhoupc1988@gmail.com
-
+* [University of Science and Technology of China 中国科学技术大学](https://www.ustc.edu.cn)
+* [Xiongan Institute of Innovation 雄安创新研究院](http://xii.ac.cn/)
+* [Shenzhen Institute of Advanced Technology](http://siat.cas.cn/)
 ## Declaration
 [University of Science and Technology of China](https://www.ustc.edu.cn) has filed a patent application related to the design of TINIscope. 
 
@@ -65,6 +63,4 @@ In this repository, our goal is to present our work in the development of optics
 * [MIniscope-v4](https://github.com/Aharoni-Lab/Miniscope-v4)
   * The UCLA miniscope team is a trailblazer in open-sourcing miniaturized microscope technologies. Their well-written and organized documentation has been a great inspiration for us to adopt similar styles when open-sourcing the development of our TINIscope.
 
-## Copyright
-* [University of Science and Technology of China 中国科学技术大学](https://www.ustc.edu.cn)
-* [Xiongan Institute of Innovation 雄安创新研究院](http://xii.ac.cn/)
+<!-- ## Copyright -->
