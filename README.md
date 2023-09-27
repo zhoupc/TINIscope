@@ -3,7 +3,7 @@
 <!-- **Tightly integrated neuronal imaging fluorescence microscope** -->
 
 <!-- <img src="./assets/demo_video.gif" alt="animation of neural activity recorded in a mouse using the TINIscope" width="300" align="right" /> -->
-<img src="./assets/tiniscope-4region-recording.gif" alt="animation of neural activity recorded in a mouse using the TINIscope" width="300" align="right" />
+<img src="./assets/tiniscope-4region-recording.gif" alt="simultaneous calcium imaging in 4 hippocampal regions of a mouse" width="300" align="right" />
 
 In this project repository, we introduce TINIscope, a **Tightly Integrated Neuronal Imaging microscope** optimized for electronic and opto-mechanical design. With its compact and lightweight design of 0.43 g, TINIscope enables unprecedented simultaneous imaging of behavior-relevant activity in up to four brain regions in mice. Moreover, TINIscope can be combined with additional modules to facilitate optogenetics, electrical stimulation, or local field potential recordings, allowing for multi-modal experimental design. Overall, TINIscope represents a timely and indispensable tool for studying the brain-wide interregional coordination that underlies unrestrained behaviors.
 ![Alt text](assets/tiniscope_ruler.png)
@@ -19,7 +19,7 @@ TINIscope features an ultra-compact size and an incredibly light weight, enablin
 
 
 
-<img src="./assets/tiniscope.png" alt="animation of neural activity recorded in a mouse using the TINIscope" width="300" align="right" />
+<img src="assets/tiniscope.png" alt="dimension of one TINIscope" width="300" align="right" />
 
 
 | Specications                | Value            |
