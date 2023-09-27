@@ -1,16 +1,26 @@
 # TINIscope 
 
-**Tightly integrated neuronal imaging fluorescence microscope**
+<!-- **Tightly integrated neuronal imaging fluorescence microscope** -->
 
-<img src="./assets/demo_video.gif" alt="animation of neural activity recorded in a mouse using the TINIscope" width="300" align="right" />
+<!-- <img src="./assets/demo_video.gif" alt="animation of neural activity recorded in a mouse using the TINIscope" width="300" align="right" /> -->
+<img src="./assets/tiniscope-4region-recording.gif" alt="animation of neural activity recorded in a mouse using the TINIscope" width="300" align="right" />
 
 In this project repository, we introduce TINIscope, a **Tightly Integrated Neuronal Imaging microscope** optimized for electronic and opto-mechanical design. With its compact and lightweight design of 0.43 g, TINIscope enables unprecedented simultaneous imaging of behavior-relevant activity in up to four brain regions in mice. Moreover, TINIscope can be combined with additional modules to facilitate optogenetics, electrical stimulation, or local field potential recordings, allowing for multi-modal experimental design. Overall, TINIscope represents a timely and indispensable tool for studying the brain-wide interregional coordination that underlies unrestrained behaviors.
-
-
+![Alt text](assets/tiniscope_ruler.png)
+<!-- ![Alt text](assets/tinsicope_miniscope.png) -->
+<!-- <img src="./assets/tiniscope_ruler.png" height="150" align='right'> 
+<!-- [!./assets/tiniscope_ruler.png](af) -->
+<!-- <img src="./assets/TINIscope.png" height="150" aligh='right' >  -->
+<!-- <img src="./assets/tiniscope_ruler.png" height="150" align='right'> --> 
 
 ## Features
 
 TINIscope features an ultra-compact size and an incredibly light weight, enabling the option to wear four of them on a single mouse. The key specifications are outlined below:
+
+
+
+<img src="./assets/tiniscope.png" alt="animation of neural activity recorded in a mouse using the TINIscope" width="300" align="right" />
+
 
 | Specications                | Value            |
 | --------------------------- | ---------------- |
@@ -22,32 +32,29 @@ TINIscope features an ultra-compact size and an incredibly light weight, enablin
 | Adjustment of focal range   | ~0-200 μm        |
 | Cable length                | 50/70 cm         |
 
-<img src="./assets/tiniscope_5cents.png" height="150" > <img src="./assets/tiniscope_ruler.png" height="150" >
+
+
 
 ## Overview 
-As standalone equipment, TINIscope reaches a new level of miniaturization in head-mounted microscopes, reducing the burden added to smaller or developing animals like juvenile songbirds. Based on the TINIscope design, we further systematically developed an experimental paradigm, including multi-site implantations and a commutator for untangling, for multi-region calcium imaging in freely behaving mice. 
+As standalone equipment, TINIscope reaches a new level of miniaturization in head-mounted microscopes, reducing the burden added to smaller or developing animals like juvenile songbirds. Based on the TINIscope design, we further systematically developed an experimental paradigm, including multi-site implantations and a commutator for wire untangling, for multi-region calcium imaging in freely behaving mice. 
 
-In this repository, our goal is to present our work in the development of optics, electronics, and mechanics pertaining to various aspects of TINIscope. We cover topics such as the lightpath, housing, baseplate, commutator system, and provide useful guidelines for conducting experiments.
-
-## Get started 
+In this repository, our goal is to present our work in the development of optics, electronics, and mechanics pertaining to various aspects of TINIscope. We cover topics such as the lightpath, housing, baseplate, commutator system, and provide useful guidelines for conducting experiments. To access detailed information regarding each topic, please click on the provided links below.
+ 
 ### [Part list](./TINIscope_Documents/PartList.md)
 
-### [3D printing]()
+## Main contributors
+* Feng Xue
+* Fei Li 
+* Ke-Ming Zhang 
+* Pengcheng Zhou, zhoupc1988@gmail.com
 
-### [Assembly]()
+## Declaration
+[University of Science and Technology of China](https://www.ustc.edu.cn) has filed a patent application related to the design of TINIscope. 
 
-### [Commutator system](./TINIscope_Documents/Commutator.md)
-
-### [GUI and driver](./TINIscope_Documents/InstallGUI.md)
-
-### [Surgy]
-# Overview and system components
-Our system is comprised of head mounted microscope, DAQ borad, GUI for data aquisition and a commutator system. The related files are put into separate folders. The ompmization of its electronic, mechanical and optical parts of headed mounted microscope makes it flexible to implant mutliple units in a freely moving mice cortically and subcortically. Since deciphering complex behavior has an urgent demand for tools to perform concurrent cellular-resolution calcium imaging in brain-wide regions of freely behaving animals, TINIscope has an advantage, among others, to deal with these tough scienctific questions.  
-The master partlist of TINIscope is attached [here](https://github.com/TINIscope/TINIscopeMasterPartList/blob/main/TINIscope%20Master%20Parts%20List.xlsx). To set up our system, one can purchase the necessary parts depending on the lish and follow the instruciton below to know how to assemble the system.
-
-## Electornic circuit of head mounted microscope
-
-
+## Acknowledgement 
+* [MIniscope-v4](https://github.com/Aharoni-Lab/Miniscope-v4)
+  * The UCLA miniscope team is a trailblazer in open-sourcing miniaturized microscope technologies. Their well-written and organized documentation has been a great inspiration for us to adopt similar styles when open-sourcing the development of our TINIscope.
 
 ## Copyright
-雄安创新研究院
+* [University of Science and Technology of China 中国科学技术大学](https://www.ustc.edu.cn)
+* [Xiongan Institute of Innovation 雄安创新研究院](http://xii.ac.cn/)
