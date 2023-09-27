@@ -20,7 +20,7 @@ The core of TINIscope consists of a Rigid-Flex PCB, filter set, objective GRIN l
 
 <video src="../assets/tiniscope_parts.mp4" controls title="Title" width=400></video>
 ## Machined or Printer Parts 
-The print and CNC files for the TINIscope housing and base plate can be found in the "TINIscope-Housing" folder of this repository. 
+The print and CNC files for the TINIscope housing and base plate can be found in the "TINIscope_Housing" folder of this repository. 
 
 There are 3 parts 3D printed by the printer Form 2 from formlabs. The material is their normal blackresin. Form3 has also been tested to achieve better printing resolution with same material. The optional materials could be PU Rigid 1000/650 Resin, which are more durable from their description. However, these materials were unable to be purchased from our areas and therefore we did not test them.
 
@@ -44,6 +44,15 @@ The illumination path is highly dependent on the precise placement of hall ball 
 The baseplate is CNC machined mainly due to consideration of keep durability of its 2 M1 screw thread. The hole to fit the GRIN objective lens should be as precise as possile to obtain good image quality.
 <br><br>
 
-## Rigid-Flex PCB 
+## PCB 
+The fabrication files for the TINIscope PCB can be found in the "TINIscope_PCB" folder of this repository. 
+
+### Rigid-flex PCB 
+<img src="../assets/50cm cable.jpg" alt="50cm cable" width="100" align="right" />
+A rigid-flex PCB is fabricated to connect the CMOS image sensor and DAQ board. The flex cable part is 50/70 cm to keep flexibility when the animal moves freely. The layer stack excel file should be strictly followed to simultaneously keep the stability of data transmission and the agility of animal.
+<img src="../assets/pcb to daq.jpg" alt="pcb to daq" width="100" align="right" />
+The BOM is provided for the necessary components needed to be soldered on this PCB. After soldering them on PCB, 4 PCBs will be connected to 2 DAQ boards. These 2 DAQ boards will be then fixed on the 3D printed U-shape Bracekt.
+
+### FPC for LED
 
 ## Optical filters 
