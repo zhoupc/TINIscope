@@ -19,7 +19,7 @@ TINIscope features an ultra-compact size and an incredibly light weight, enablin
 
 
 
-<img src="assets/tiniscope.png" alt="dimension of one TINIscope" width="300" align="right" />
+<img src="assets/TINIscope.png" alt="dimension of one TINIscope" width="300" align="right" />
 
 
 | Specications                | Value            |
