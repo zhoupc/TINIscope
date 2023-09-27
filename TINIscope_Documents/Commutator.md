@@ -69,6 +69,6 @@ The control board is composed of two switch button connecting to the MCU.
 
 Once you have acquired all the necessary components, assembling them is as straightforward as connecting them according to the diagram provided above. To give you a better idea of the final product, we have included a video demonstration below:
 
-<img src="../assets/commutator.gif" alt="our commutator system" width="300" align="right" />
+<img src="../assets/commutator.gif" alt="our commutator system" width="700" />
 
 <!-- <video src="../assets/virtual_simulation.mp4" controls title="commutator"></video> -->
