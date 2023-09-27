@@ -45,10 +45,16 @@ In this repository, our goal is to present our work in the development of optics
 * [part list of commutator system](./TINIscope_Documents/PartList_commutator.md)
 
 ### Assembly 
-[step-by-step guide](./TINIscope_Documents/Assembly.md)
+* [step-by-step guide](./TINIscope_Documents/Assembly.md)
+
+### GUI and drivers 
+* [Installation](./TINIscope_Documents/InstallGUI_driver.md)
+### Experiment
+* [Virtual simulation](./TINIscope_Documents/VirtualSimulation.md)
+
 ## Main contributors
 * Feng Xue
-* Fei Li 
+* Fei Li，fei.li1@siat.ac.cn
 * Ke-Ming Zhang 
 * Pengcheng Zhou, zhoupc1988@gmail.com
 
