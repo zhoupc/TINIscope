@@ -3,7 +3,7 @@
 
  <!-- For details on options of how to purchase/produce these components, go to the Part Procurement page of this wiki. -->
 
-The core of TINIscope consists of a Rigid-Flex PCB, filter set, objective GRIN lens set, half-ball lens, and machined or printed body xxxx . Below outlines the details of each of these components.
+The core of TINIscope consists of a Rigid-Flex PCB, filter set, objective GRIN lens set, half-ball lens, and machined or printed housing, slider and baseplate. Below outlines the details of each of these components.
 ![Section diagram of TINIscope](../assets/tiniscope_diagram.png)
 
 <img src="https://github.com/zhoupc/TINIscope/assets/51817953/3250388c-eef1-4473-91dc-a9a9d50e34c2" alt="animation of neural activity recorded in a mouse using the TINIscope" width="300" align="right" />
@@ -48,9 +48,10 @@ The baseplate is CNC machined mainly due to consideration of keep durability of 
 The fabrication files for the TINIscope PCB can be found in the "TINIscope_PCB" folder of this repository. 
 
 ### Rigid-flex PCB 
-<img src="../assets/50cm cable.jpg" alt="50cm cable" width="100" align="right" />
+<img src="../assets/50cm cable.jpg" alt="50cm cable" width="1000" />
+<img src="../assets/pcb to daq.jpg" alt="pcb to daq" width="150" align="right" style="transform:rotate(90deg);" />
 A rigid-flex PCB is fabricated to connect the CMOS image sensor and DAQ board. The flex cable part is 50/70 cm to keep flexibility when the animal moves freely. The layer stack excel file should be strictly followed to simultaneously keep the stability of data transmission and the agility of animal.
-<img src="../assets/pcb to daq.jpg" alt="pcb to daq" width="100" align="right" />
+
 The BOM is provided for the necessary components needed to be soldered on this PCB. After soldering them on PCB, 4 PCBs will be connected to 2 DAQ boards. These 2 DAQ boards will be then fixed on the 3D printed U-shape Bracekt.
 
 ### FPC for LED
