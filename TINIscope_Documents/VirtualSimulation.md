@@ -5,5 +5,5 @@ When implanting multiple TINIscopes, it is essential to design proper equipment 
 * Secondly, the downloaded models and 3D model of TINIscopes were imported into Solidworks. 
 * Lastly, the GRIN lens of each TINIscope was fixed to the target area, and the orientation of each TINIscope was adjusted to achieve the best arrangement. The final orientation of each TINIscope was then exported to guide surgical implantation.
 
-<video src="../assets/virtual_simulation.mp4" controls title="Title" width=500></video>
 
+<img src="../assets/virtual_simulation.gif" alt="virtual simulation" width="700" />
