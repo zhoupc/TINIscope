@@ -25,9 +25,9 @@ There are 3 parts 3D printed by the printer Form 2 from formlabs. The material i
 
 The baseplate is CNC machined.
 
-### Housing
-<img src="../assets/parts of head scope/housing.png" alt="housing" width="150" align="right" />
-The main housing of TINIscope fits all the optical parts. A intruction will help to illustrate how to assemble it with these optical parts, pleaase refer to the [Step-by-step assembly](./TINIscope_Documents/Assembly.md).
+### Body
+<img src="../assets/parts of head scope/housing.png" alt="body" width="150" align="right" />
+The main body of TINIscope fits all the optical parts. A intruction will help to illustrate how to assemble it with these optical parts, pleaase refer to the [Step-by-step assembly](./TINIscope_Documents/Assembly.md).
 <br><br>
 
 ### Slider
