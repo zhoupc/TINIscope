@@ -6,7 +6,6 @@
 The core of TINIscope consists of a Rigid-Flex PCB, filter set, objective GRIN lens set, half-ball lens, and machined or printed housing, slider and baseplate. Below outlines the details of each of these components.
 ![Section diagram of TINIscope](../assets/tiniscope_diagram.png)
 
-<img src="https://github.com/zhoupc/TINIscope/assets/51817953/3250388c-eef1-4473-91dc-a9a9d50e34c2" alt="animation of neural activity recorded in a mouse using the TINIscope" width="300" align="right" />
 
 * BL: blue LED
 * HL, half-ball lens
