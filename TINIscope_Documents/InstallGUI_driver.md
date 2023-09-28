@@ -89,14 +89,14 @@ Essentially, the process involves two primary steps, which are outlined in the f
    The description of these options were shown in this table 
    |name | descriptions|
    |-----| ------------|
-   |Avdd| power supply for CMOS, default: 2.8 | 
+   |Avdd| power for analog circuit of CMOS, default: 2.8 V | 
    |Dvdd| not used|
-   |Dovdd| power supply for CMOS, default: 1.8|
-   |Afvcc| |
+   |Dovdd| power for I/O circuit of CMOS, default: 1.8|
+   |Afvcc| adjust for LED brightness, range 2.2V-3.0 V |
    |VPP | |
    |Addr 0x| CMOS, 12C address; | 
    |Reg 0x| register address of CMOS; 0x3501 | 
-   |Value 0x | |
+   |Value 0x | for example time of CMOS, range: 0-0x1b, i.e., 0-27|
    |Mclk| clock of CMOS|
    |AF | not used |
    || |
