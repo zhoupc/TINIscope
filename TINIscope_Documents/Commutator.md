@@ -27,11 +27,11 @@ For more specifications, check the
 [data sheet](https://cdn.shopifycdn.net/s/files/1/0583/0872/2881/files/DM320_2H320_Stepper_motor_driver_controller.pdf?v=1660788999).
 ### Stepper motor 
 
-<img src="./assets/../../assets/stepper_motor.png" alt="stepper motor" width="150" align="right" />
+<img src="../assets/stepper_motor.png" alt="stepper motor" width="150" align="right" />
 
 [ML42HB60 J-4218HB4401 42 Stepper motor High 60mm Torque 0 89Nm Motor](https://www.yoycart.com/Product/521600244151/)
 
-<img src="./assets/../../assets/stepper_motor_specs.png" alt="stepper motor" width="300"  />
+<img src="../assets/stepper_motor_specs.png" alt="stepper motor" width="300"  />
 
 ### slip ring 
 <img src="./assets/../../assets/slip_ring.jpg" alt="stepper motor" width="150" align="right" />
