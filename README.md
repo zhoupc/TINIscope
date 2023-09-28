@@ -35,7 +35,9 @@ TINIscope features an ultra-compact size and an incredibly light weight, enablin
 As standalone equipment, TINIscope reaches a new level of miniaturization in head-mounted microscopes, reducing the burden added to smaller or developing animals like juvenile songbirds. Based on the TINIscope design, we further systematically developed an experimental paradigm, including multi-site implantations and a commutator for wire untangling, for multi-region calcium imaging in freely behaving mice. 
 
 In this repository, our goal is to present our work in the development of optics, electronics, and mechanics pertaining to various aspects of TINIscope. We cover topics such as the lightpath, housing, baseplate, commutator system, and provide useful guidelines for conducting experiments. To access detailed information regarding each topic, please click on the provided links below.
- 
+
+A comprehensive summary of all parts were listed in [`part_list/TINIscope_Parts_List.xlsx`](./part_list/TINIscope_Parts_List.xlsx).
+
 ### TINIscope
 * [Part list](./TINIscope_Documents/PartList_tiniscope.md)
 * [Step-by-step assembly](./TINIscope_Documents/Assembly.md)
