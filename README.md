@@ -48,9 +48,9 @@ In this repository, our goal is to present our work in the development of optics
 * [Virtual simulation](./TINIscope_Documents/VirtualSimulation.md)
 
 ## Main contributors and institutations
-* Feng Xue
+* Feng Xue, xue0feng@ustc.edu.cn
 * Fei Li, fei.li1@siat.ac.cn
-* Ke-Ming Zhang 
+* Ke-Ming Zhang, zkm037@ustc.edu.cn
 * Pengcheng Zhou, zhoupc1988@gmail.com
 * [University of Science and Technology of China 中国科学技术大学](https://www.ustc.edu.cn)
 * [Xiongan Institute of Innovation 雄安创新研究院](http://xii.ac.cn/)
