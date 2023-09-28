@@ -19,39 +19,40 @@ The core of TINIscope consists of a Rigid-Flex PCB, filter set, objective GRIN l
 
 <video src="../assets/tiniscope_parts.mp4" controls title="Title" width=400></video>
 ## Machined or Printer Parts 
-The print and CNC files for the TINIscope housing and baseplate can be found in the "TINIscope_Housing" folder of this repository. 
+The print and CNC files for the TINIscope housing and baseplate are located in the [TINIscope_Housing](../TINIscope_Housing/) folder of this repository.
 
-There are 3 parts 3D printed by the printer Form 2 from formlabs. The material is their normal blackresin. Form3 has also been tested to achieve better printing resolution with same material. The optional materials could be PU Rigid 1000/650 Resin, which are more durable from their description. However, these materials were unable to be purchased from our areas and therefore we did not test them.
+Three parts were 3D printed using the Form 2 printer from formlabs, utilizing their normal black resin material. Additionally, testing was conducted with the Form 3 printer to achieve enhanced printing resolution while using the same material. Optional materials such as PU Rigid 1000/650 Resin, which offer improved durability according to their description, were considered. However, due to unavailability in our local area, we were unable to purchase these materials for testing purposes.
+
 
 The baseplate is CNC machined.
 
 ### Body
 <img src="../assets/parts of head scope/housing.png" alt="body" width="150" align="right" />
-The main body of TINIscope fits all the optical parts. A intruction will help to illustrate how to assemble it with these optical parts, pleaase refer to the [Step-by-step assembly](./TINIscope_Documents/Assembly.md).
+The main body of TINIscope fits all the optical parts. A intruction will help to illustrate how to assemble it with these optical parts, pleaase refer to the [Step-by-step assembly](./Assembly.md).
 <br><br>
 
 ### Slider
 <img src="../assets/parts of head scope/slider.png" alt="slider" width="100" align="right" />
-The slider is used to fit the CMOS image sensor and mate with the body to adjust the focal plane of TINIscope. A longer slider range could achieve wider adjustment range of focal palne. The slider has a hole to fit with with a M1 self-tapping screw, after the adjustment of focal plane is finished, the screw help to secure it with the body.
+The slider serves the purpose of accommodating the CMOS image sensor and aligning with the body to enable focal plane adjustments for the TINIscope. A wider range of focal plane adjustment can be achieved by utilizing a longer slider range. The slider features a hole designed to fit an M1 self-tapping screw, which helps secure it to the body once the focal plane adjustment is complete.
 
 ### Led cap
 <img src="../assets/parts of head scope/led cap.png" alt="led cap" width="100" align="right" />
-The illumination path is highly dependent on the precise placement of hall ball lens and LED, so a led cap is utilized after the hall ball lens is placed right in the middle of the illumination path to keep the precise placement of LED.
+The precise positioning of the hall ball lens and LED is crucial for ensuring an optimal illumination path. To maintain the accurate placement of the LED, a led cap is used after correctly positioning the hall ball lens in the middle of the illumination path.
 
-### Led cap
+### Baseplate
 <img src="../assets/parts of head scope/baseplate.png" alt="baseplate" width="100" align="right" />
-The baseplate is CNC machined mainly due to consideration of keep durability of its 2 M1 screw thread. The hole to fit the GRIN objective lens should be as precise as possile to obtain good image quality.
+The baseplate is primarily CNC machined to ensure the durability of its two M1 screw threads. Additionally, the hole for fitting the GRIN objective lens is designed with high precision to achieve optimal image quality.
 <br><br>
 
 ## PCB 
-The fabrication files for the TINIscope PCB can be found in the "TINIscope_PCB" folder of this repository. 
+The fabrication files for the TINIscope PCB can be found in the [TINIscope_PCB](../TINIscope_PCB/) folder of this repository. 
 
 ### Rigid-flex PCB 
 <img src="../assets/50cm cable2.jpg" alt="50cm cable" width="150" align="right"/>
 
-A rigid-flex PCB is fabricated to connect the CMOS image sensor and DAQ board. The flex cable part is 50/70 cm to keep flexibility when the animal moves freely. The layer stack excel file should be strictly followed to simultaneously keep the stability of data transmission and the agility of animal.
+To establish a connection between the CMOS image sensor and DAQ board, a rigid-flex PCB is created. The flex cable portion of the PCB is designed to be 50/70 cm in length, ensuring flexibility when the animal moves freely. It is crucial to follow strictly to the layer stack excel file to maintain both stable data transmission and accommodate the animal's agility simultaneously.
 
-The BOM is provided for the necessary components needed to be soldered on this PCB. After soldering them on PCB, 4 PCBs will be connected to 2 DAQ boards. These 2 DAQ boards will be then fixed on the 3D printed U-shape Bracekt.
+The Bill of Materials (BOM) includes all the essential components required to be soldered onto this PCB. Once these components are soldered onto the PCB, four PCBs will be connected to two DAQ boards. Subsequently, these two DAQ boards will be securely mounted on the 3D printed U-shaped Bracket.
 
 <img src="../assets/pcb to daq.jpg" alt="pcb to daq" width="300"/>
 

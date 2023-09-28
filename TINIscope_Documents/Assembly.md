@@ -5,7 +5,7 @@ Before started you should prepare for all the parts necessary to assemble it, pl
 
 Please keep all the optical parts clean. 
 
-<img src="https://github.com/zhoupc/TINIscope/assets/51817953/3250388c-eef1-4473-91dc-a9a9d50e34c2" alt="animation of neural activity recorded in a mouse using the TINIscope" width="300" />
+<img src="../assets/tiniscope_assembly_explosive.gif"  alt="animation of neural activity recorded in a mouse using the TINIscope" width="400" />
 
 ## Assembly steps 
 ### Step 1
