@@ -49,7 +49,7 @@ A comprehensive summary of all parts were listed in [`part_list/TINIscope_Parts_
 ### Experiment
 * [Virtual simulation](./TINIscope_Documents/VirtualSimulation.md)
 
-## Main contributors and institutations
+## Main contributors and institutions
 * Feng Xue, xue0feng@ustc.edu.cn
 * Fei Li, fei.li1@siat.ac.cn
 * Ke-Ming Zhang, zkm037@ustc.edu.cn
